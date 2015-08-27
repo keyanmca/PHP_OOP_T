@@ -6,7 +6,6 @@
  * Mosaab © 2015
 */
 
-
 class Layout {
 	protected $input = "Hello world is the most boring example xD.";
 	
@@ -36,5 +35,4 @@ class LayoutTweeks extends Layout {
 		return $this->secondvar;
 	}
 }
-
 ?>
